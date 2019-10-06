@@ -5,7 +5,7 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-37-Dynamic-Forms/pull/2)
 
 ### Modules
 #### src -> `index.js`
